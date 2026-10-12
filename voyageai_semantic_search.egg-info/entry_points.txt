@@ -1,0 +1,2 @@
+[console_scripts]
+voyage-demo = voyageai_project.cli:main
